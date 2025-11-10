@@ -7,6 +7,7 @@
 
 - 🌩️ Working with Cloud (AWS) and IoT — sensors, microcontrollers & real-time data  
 - 💻 Web Developer — MERN, PHP, Django, Spring Boot  
+- 🐳 Familiar with **Docker** and **Kubernetes (K8s)** for containerization and deployment  
 - 📊 Data analytics & dashboards with Power BI  
 - 🤝 Open to collaboration on **IoT, Cloud, and Full-Stack Web Projects**  
 
@@ -25,7 +26,7 @@
 #### 🔗 IoT & Embedded
 <p align="left">
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/esp32/esp32.png" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/ESP32_Logo.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="40" height="40"/>
 </p>
 
@@ -42,6 +43,12 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+</p>
+
+#### 🧩 DevOps & Containerization
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
 </p>
 
 #### 💻 Programming
