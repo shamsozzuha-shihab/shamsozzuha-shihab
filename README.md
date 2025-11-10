@@ -72,11 +72,44 @@
 
 <!-- Projects Showcase -->
 <h3 align="left"><font size="+2" face="Verdana">Projects Showcase</font></h3>
-<p align="left">
-- <a href="https://github.com/your-username/project1">IoT Smart Home Dashboard</a> — AWS IoT + ESP32 + React  
-- <a href="https://github.com/your-username/project2">MERN Ecommerce App</a> — MongoDB, Express, React, Node.js  
-- <a href="https://github.com/your-username/project3">Spring Boot API & Dashboard</a> — Java + Spring Boot + PostgreSQL  
-</p>
+<!-- Projects Showcase -->
+<h3 align="left"><font size="+2" face="Verdana">🚀 Projects Showcase</font></h3>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏠 <a href="https://github.com/your-username/project1">IoT Smart Home Dashboard</a></h4>
+      <p>
+        <b>Tech:</b> AWS IoT · ESP32 · React<br>
+        Real-time device monitoring and control system with cloud dashboard.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛍️ <a href="https://github.com/your-username/project2">MERN Ecommerce App</a></h4>
+      <p>
+        <b>Tech:</b> MongoDB · Express · React · Node.js<br>
+        Full-featured eCommerce application with user auth and admin panel.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📊 <a href="https://github.com/your-username/project3">Spring Boot API & Dashboard</a></h4>
+      <p>
+        <b>Tech:</b> Java · Spring Boot · PostgreSQL<br>
+        Backend API and admin dashboard for data analytics and reporting.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>☁️ <a href="https://github.com/your-username/project4">Cloud IoT Data Pipeline</a></h4>
+      <p>
+        <b>Tech:</b> AWS Lambda · MQTT · Power BI<br>
+        IoT sensor data collection, processing, and visualization pipeline.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 <!-- GitHub Stats & Trophy -->
 <h3 align="left"><font size="+2" face="Verdana">GitHub Stats</font></h3>
